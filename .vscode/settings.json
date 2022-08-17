@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "'Dank Mono', 'JetBrains Mono', 'Source Code Pro', 'Fira Code Retina', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "cSpell.words": [
+    "clsx",
+    "commitlint",
+    "htmldocument",
+    "minicdn",
+    "pnpm",
+    "preinstall"
+  ]
+}
