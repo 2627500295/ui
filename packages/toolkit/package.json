@@ -1,0 +1,22 @@
+{
+  "name": "@minicdn/toolkit",
+  "version": "1.0.0",
+  "author": "",
+  "private": true,
+  "keywords": [
+    "utils",
+    "utilities",
+    "toolkit"
+  ],
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "lit": "^2.3.0",
+    "typescript": "^4.7.4"
+  },
+  "license": "MIT"
+}
