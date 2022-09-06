@@ -1,0 +1,29 @@
+{
+  "name": "@minicdn/ui-tag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "prettier": {
+    "printWidth": 120
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "lit": "^2.3.0",
+    "tslib": "^2.4.0"
+  },
+  "devDependencies": {
+    "@minicdn/classnames": "workspace:^1.0.0",
+    "@minicdn/clsx": "workspace:^1.0.0",
+    "@minicdn/toolkit": "workspace:^1.0.0"
+  },
+  "peerDependencies": {
+    "@minicdn/classnames": "workspace:^1.0.0",
+    "@minicdn/clsx": "workspace:^1.0.0",
+    "@minicdn/toolkit": "workspace:^1.0.0"
+  },
+  "license": "ISC"
+}
