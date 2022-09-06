@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "strictNullChecks": true,
+    "strict": true,
+    "declaration": true,
+    "lib": ["es2015"],
+    "outDir": "dist"
+  },
+  "include": ["src", "typings"],
+  "exclude": ["node_modules"]
+}
